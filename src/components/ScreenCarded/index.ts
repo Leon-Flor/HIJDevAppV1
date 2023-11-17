@@ -1,0 +1,1 @@
+export {ScreenCarded} from './ScreenCarded';
